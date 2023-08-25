@@ -18,3 +18,5 @@ Megusta ver anime y jugar videojuegos en mi tiempo libre en la casa, al igual qu
 | Instagram | fernando_h99 |
 | WhatsApp | 55 13064403 |
 | Correo | fernandohortap@hotmail.com |
+| Git | https://github.com/KurenaiOuji |
+| Repositiory | https://github.com/KurenaiOuji/Practica-Git-1 |
